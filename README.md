@@ -3,7 +3,7 @@
 ## 1 百度学术科技论文爬虫（为读博的朋友写的）
 ### 1、 运行方法  
 ```python
-python literatur_spyder.py
+python literature_spyder.py
 ```
 
 ## 2 爬取某个教授的百度学术主页，并对发表过的文章信息进行汇总
